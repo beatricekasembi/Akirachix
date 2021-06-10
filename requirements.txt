@@ -1,6 +1,6 @@
 icertifi==2019.6.16
 chardet==3.0.4
-Django==2.2.1
+Django==2.2.24
 django-registration-redux==2.6
 djangorestframework==3.9.4
 gunicorn==19.9.0
